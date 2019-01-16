@@ -1,0 +1,15 @@
+{
+  "mysql": {
+    "host": "192.168.3.234",
+    "port": 54102,
+    "username": "root",
+    "password": "root",
+    "db": "xixixi"
+  },
+  "redis": {
+    "host": "192.168.3.234",
+    "port": 6383,
+    "auth": "hahaha",
+    "db": 7
+  }
+}

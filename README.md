@@ -1,2 +1,2 @@
 # gin_demo
-gin + redis + mysql
+gin + redis(redigo) + mysql(sqlx)
